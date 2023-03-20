@@ -1,0 +1,18 @@
+@media(max-width: 900px) {
+    .main .container {
+        width: 450px;
+      
+        padding: 50px 30px 30px 30px;
+    }
+
+    .main .container .image {
+        display: none;
+    }
+}
+
+@media (max-width: 500px) {
+    .main .container {
+        margin: 0 10px 0 10px;
+        padding: 40px 5px 2px 30px;
+    }
+}
